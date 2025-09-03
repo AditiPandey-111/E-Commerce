@@ -38,13 +38,7 @@ This project supports multiple package managers:
 
 ## 💻 Getting Started
 
-**1. Clone the repository** 
-   ```Bash
-   git clone "https://github.com/rutu-modha/e-commerce.git"
-cd ./e-commerce
-```
-
-**2. Install dependencies**
+**Install dependencies**
 - **using npm**
 ```Bash
 npm install
@@ -103,10 +97,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 > If you liked this project, then please don't forget to give this repository a star. Your 1 star means a lot for me.
 
-## 👨‍💻 Author
-
-**Hrutav Modha**
-(_modhahrutav@gmail.com_)
 
 ## 🤝 Contributions
 
